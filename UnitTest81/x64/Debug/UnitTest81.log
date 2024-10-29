@@ -1,0 +1,20 @@
+﻿  pch.cpp
+  UnitTest81.cpp
+C:\Users\Iryna Kreminska\source\repos\Lab_08.1string\UnitTest81\UnitTest81.cpp(1,9): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+      C:\Users\Iryna Kreminska\source\repos\Lab_08.1string\UnitTest81\UnitTest81.cpp(1,9):
+      '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  
+C:\Users\Iryna Kreminska\source\repos\Lab_08.1string\UnitTest81\UnitTest81.cpp(1,9): warning C4603: '_CRT_SECURE_NO_WARNINGS': macro is not defined or definition is different after precompiled header use
+  (compiling source file '/UnitTest81.cpp')
+      C:\Users\Iryna Kreminska\source\repos\Lab_08.1string\UnitTest81\UnitTest81.cpp(1,9):
+      Add macro to precompiled header instead of defining here
+      C:\Users\Iryna Kreminska\source\repos\Lab_08.1string\UnitTest81\UnitTest81.cpp(2,1):
+      use of precompiled header
+  
+C:\Users\Iryna Kreminska\source\repos\Lab_08.1string\Lab_08.1string\Lab_08.1string.cpp(1,9): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  (compiling source file '/UnitTest81.cpp')
+      C:\Users\Iryna Kreminska\source\repos\Lab_08.1string\Lab_08.1string\Lab_08.1string.cpp(1,9):
+      '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  
+     Creating library C:\Users\Iryna Kreminska\source\repos\Lab_08.1string\x64\Debug\UnitTest81.lib and object C:\Users\Iryna Kreminska\source\repos\Lab_08.1string\x64\Debug\UnitTest81.exp
+  UnitTest81.vcxproj -> C:\Users\Iryna Kreminska\source\repos\Lab_08.1string\x64\Debug\UnitTest81.dll
